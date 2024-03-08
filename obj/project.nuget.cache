@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65juYE07nDUCm/Mdd49MLe7sAYtPfg77arwlkLk0DWOLJc78zpH2sjEvY4yZ5IzmpcflKHgLN1Zcm/3unioEcg==",
+  "dgSpecHash": "KFlOz11KJHR0JGwnzUkPjLjzj9MO92fh81ywMQDBAxnp/PNbJ73pDyrtEQTdtgYHZbQkZCdsLGyhi9w7RQEp8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferna\\Desktop\\Atividade 4d\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
